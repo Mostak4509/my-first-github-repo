@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+}
+.box1{
+  width: 300px;
+  height: 200px;
+  background-color: blue;
+}
+
+.box2{
+  width: 300x;
+  height: 200px;
+  background-color: red;
+}
